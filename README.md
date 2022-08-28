@@ -5,7 +5,7 @@ FROM THIS WEBSITE EVERYONE CAN FIND THE "WORLD_COUNTRIES_POPULATION DATA" :
 
 URL= https://www.worldometers.info/world-population/population-by-country/
 
-#Steps to perform:
+# Steps to perform:
 
 Please scrape the table properly using BeautifulSoup.
 
@@ -29,7 +29,7 @@ Create appropriate graphs to examine the distribution of Population, median age 
 
 Please sort the population column based on lowest populated countries and report bottom 10 countries as well as top 10 countries.
 
-#Part 2
+# Part 2
 
 Create the following two classes (standard and student) with the given attributes and methods
 
